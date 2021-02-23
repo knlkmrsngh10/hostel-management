@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hostel-management/static/css/main.28bcd826.chunk.css",
-    "main.js": "/hostel-management/static/js/main.2b8c0197.chunk.js",
-    "main.js.map": "/hostel-management/static/js/main.2b8c0197.chunk.js.map",
+    "main.js": "/hostel-management/static/js/main.da0a4a2e.chunk.js",
+    "main.js.map": "/hostel-management/static/js/main.da0a4a2e.chunk.js.map",
     "runtime-main.js": "/hostel-management/static/js/runtime-main.0c863bc4.js",
     "runtime-main.js.map": "/hostel-management/static/js/runtime-main.0c863bc4.js.map",
     "static/js/2.836486bb.chunk.js": "/hostel-management/static/js/2.836486bb.chunk.js",
@@ -11,12 +11,19 @@
     "static/js/3.d7122d46.chunk.js.map": "/hostel-management/static/js/3.d7122d46.chunk.js.map",
     "index.html": "/hostel-management/index.html",
     "static/css/main.28bcd826.chunk.css.map": "/hostel-management/static/css/main.28bcd826.chunk.css.map",
-    "static/js/2.836486bb.chunk.js.LICENSE.txt": "/hostel-management/static/js/2.836486bb.chunk.js.LICENSE.txt"
+    "static/js/2.836486bb.chunk.js.LICENSE.txt": "/hostel-management/static/js/2.836486bb.chunk.js.LICENSE.txt",
+    "static/media/Details_for_SWIFT_transfer.9d14171c.pdf": "/hostel-management/static/media/Details_for_SWIFT_transfer.9d14171c.pdf",
+    "static/media/Fee_Dues.93f89a27.pdf": "/hostel-management/static/media/Fee_Dues.93f89a27.pdf",
+    "static/media/Hostel_Notice_reg_e_21.bad65a71.pdf": "/hostel-management/static/media/Hostel_Notice_reg_e_21.bad65a71.pdf",
+    "static/media/No_Dues.8d016eed.pdf": "/hostel-management/static/media/No_Dues.8d016eed.pdf",
+    "static/media/Refund_Even_Semester_2020-2021.2a2f034c.pdf": "/hostel-management/static/media/Refund_Even_Semester_2020-2021.2a2f034c.pdf",
+    "static/media/Reopening_College_Notice.36949418.pdf": "/hostel-management/static/media/Reopening_College_Notice.36949418.pdf",
+    "static/media/Tution_Fee_Waiver.669dd1e2.pdf": "/hostel-management/static/media/Tution_Fee_Waiver.669dd1e2.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.0c863bc4.js",
     "static/js/2.836486bb.chunk.js",
     "static/css/main.28bcd826.chunk.css",
-    "static/js/main.2b8c0197.chunk.js"
+    "static/js/main.da0a4a2e.chunk.js"
   ]
 }
