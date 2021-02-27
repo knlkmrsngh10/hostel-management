@@ -1,0 +1,77 @@
+
+.notification {
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 35%;
+    font-size: 40px;
+    color:#61dafb;
+    text-decoration: underline;
+    font-weight: 1200px;
+  }
+  .about_heading { 
+    padding-left:35%;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color:#61dafb;
+    text-decoration: underline;
+    font-weight: bolder;
+  }
+  
+  .About_Hostels{
+    padding-top:20px;
+    margin-left:40px;
+    margin-right:40px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.4;
+    font-size: 18px;
+    font-weight: 700;
+    
+  }
+
+  .Button{
+    padding-top:40px;
+    padding-left:10%;
+    padding-right:10%;
+  }
+  
+  .Button_design {
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    display: inline;
+    font-size: 28px;
+    padding: 20px;
+    width: 100%;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .Button_design span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .Button_design span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .Button_design:hover span {
+    padding-right: 25px;
+  }
+  
+  .Button_design:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+  

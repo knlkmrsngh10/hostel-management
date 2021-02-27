@@ -1,0 +1,33 @@
+.Logo {
+    padding-top:0px;
+    text-align: center;
+    background-color: #282c34;
+  }
+
+  .Institute_Name {
+    font-size:40px;
+    font-style: inherit;
+    text-align: center;
+    color:#61dafb;
+    font-weight: bolder;
+  }
+
+  .Warden {
+      font-size: 20px;
+      text-align: center;
+      font-style: inherit;
+      line-height: 0%;
+      color:#61dafb;
+      font-weight: bolder;
+      
+  }
+
+  .Main_Building {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  
+  
+  

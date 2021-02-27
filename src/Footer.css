@@ -1,0 +1,25 @@
+.copyrightMessage {
+    float:left;
+    font-size:20px;
+    padding-top:5%;
+    padding-left:40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+  }
+
+
+  .collegeName {
+    float:left;
+    font-size:20px;
+    padding-left:40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+  }
+
+  .betaVersion{
+    float:left;
+    font-size:15px;
+    padding-left:40%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+  }

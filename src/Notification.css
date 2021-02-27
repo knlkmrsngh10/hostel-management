@@ -1,0 +1,49 @@
+
+.accordion > div > div:first-of-type {
+    padding: 1em;
+    background-color: #4abdac;
+    color:white;
+    user-select: none;
+    font-weight: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 1em;
+    box-shadow: 0 -10px 30px 2px rgba(0, 0, 0, 0.1) inset;
+  }
+  .accordion > div > div:first-of-type:hover {
+    background-color: #2fa896;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  /* Content */
+  .accordion > div > div:last-of-type {
+    background-color: #b4c4cf;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.4;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0 1em;
+    box-shadow: 5px 5px 20px 5px rgba(141, 14, 14, 0.2);
+  }
+  
+  /* Inner */
+  .accordion .accordion-item {
+    padding: 1em;
+    opacity: 0;
+    transition: opacity 300ms ease;
+    overflow: auto;
+  }
+  .accordion > div:first-child .accordion-item {
+    max-height: 200px;
+  }
+  .accordion > div.open .accordion-item {
+    opacity: 1;
+    transition: opacity 700ms ease;
+  }
+  .accordion img.accordion-item {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+
+  
